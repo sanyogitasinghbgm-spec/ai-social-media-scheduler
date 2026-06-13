@@ -197,4 +197,6 @@ Frontend runs on `http://localhost:5173`
 
 ## 📄 License
 
-This project is for educational purposes.
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
